@@ -4,6 +4,7 @@ import { Routes, Route, Link } from 'react-router-dom';
 import Gichachi from './gichachi';
 import Home from './home';
 
+
 function App() {
   return (
     <div className="App">
