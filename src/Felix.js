@@ -14,7 +14,7 @@ function AboutMe() {
         In my free time, you can often find me coding. I also enjoy watching football, and I'm a big fan of Chelsea.
       </p>
       <p>
-        Feel free to reach out to me at felixmuinde6@gmail.com or connect with me on instagram. I'm always open to new connections and opportunities!
+        Feel free to reach out to me at felixmuinde6@gmail.com or connect with me on instagram. I'm always open to new connections and opportunities.
       </p>
     </div>
   );
