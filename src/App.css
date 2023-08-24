@@ -36,3 +36,25 @@
     transform: rotate(360deg);
   }
 }
+nav {
+  display: flex;
+  justify-content: center;
+  gap: 10px;
+  margin-bottom: 20px;
+}
+
+nav button {
+  text-decoration: none;
+  color: black;
+  border: none;
+  padding: 8px 16px;
+  border-radius: 4px;
+  background-color: cyan;
+  cursor: pointer;
+  transition: background-color 0.3s;
+}
+
+nav button:hover {
+  background-color: red;
+  color: white;
+}
