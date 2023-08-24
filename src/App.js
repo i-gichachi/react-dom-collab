@@ -6,6 +6,7 @@ import Achiebee from './Achiebee';
 import Neriko from './neriko';
 import Murll from './Murll';
 import Home from './home';
+import Felix from './Felix';
 
 function App() {
   return (
@@ -16,6 +17,8 @@ function App() {
       <button><Link to ="/Achiebee">Achiebee</Link></button>
       <button><Link to ="/neriko">Neriko</Link></button>
       <button><Link to ="/Murll">Murll</Link></button>
+      <button><Link to ="/Felix">Felix</Link></button>
+      
      </nav>
      <Routes>
      <Route path = "/home" element = {<Home/>} />
@@ -23,6 +26,7 @@ function App() {
      <Route path = "/Achiebee" element = {<Achiebee/>} />
      <Route path = "/neriko" element = {<Neriko/>} />
      <Route path = "/Murll" element = {<Murll/>} />
+     <Route path = "/Felix" element = {<Felix/>} />
      </Routes>
     </div>
   );
