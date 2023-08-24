@@ -7,7 +7,6 @@ import Neriko from './neriko';
 import Murll from './Murll';
 import Home from './home';
 
-
 function App() {
   return (
     <div className="App">
