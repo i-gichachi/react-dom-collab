@@ -29,7 +29,7 @@ function Gichachi() {
           <p style={infoStyle}>I am currently a software engineering student at Moringa School.</p>
           <p style={infoStyle}>I'm a big fan of Young Thug's music and a loyal supporter of Manchester United, the biggest football club.</p>
           <p style={infoStyle}>I love watching Formula 1 and am a fan of the G.O.A.T of the sport, Lewis Hamilton, also known as the Black Messiah.</p>
-          <p style={infoStyle}>I prefer smoked herbs iykyk. jk</p>
+          <p style={infoStyle}>I love watching horror and thriller movies and series.</p>
         </div>
       )
       
